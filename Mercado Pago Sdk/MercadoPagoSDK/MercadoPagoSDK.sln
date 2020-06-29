@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercadoPagoSDK", "MercadoPagoSDK.csproj", "{65F44BBE-3491-4BB7-9269-5268A4FFC50D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercadoPagoSDK.Test", "..\MercadoPagoSDK.Test\MercadoPagoSDK.Test.csproj", "{239A6820-68EF-4B42-A310-AFD39FFD3696}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercadoPagoSDK.Test", "MercadoPagoSDK.Test\MercadoPagoSDK.Test.csproj", "{239A6820-68EF-4B42-A310-AFD39FFD3696}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
